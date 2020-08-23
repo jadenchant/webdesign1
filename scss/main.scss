@@ -1,3 +1,9 @@
 @import './config';
 @import './index';
 
+body {
+    background-color: $background-color;
+    color: $text-color;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1;
+}
