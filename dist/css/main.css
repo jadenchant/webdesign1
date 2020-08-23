@@ -11,4 +11,11 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   line-height: 1;
 }
+
+footer {
+  font-size: 1rem;
+  margin: 1rem auto;
+  text-align: center;
+  color: white;
+}
 /*# sourceMappingURL=main.css.map */
