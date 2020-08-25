@@ -15,43 +15,42 @@ const hoverColor = '#'
 produce.addEventListener('mouseenter', function(event) {
     event.target.style.color = hoverColor;
     produceDrop.style.visibility = 'visible';
-
-    setTimeout(function() {
-        event.target.style.color = '';
-        produceDrop.style.visibility = 'hidden';
-    }, 500);
 }, false);
 
+produce.addEventListener('mouseleave', function(event) {
+    event.target.style.color = '';
+    produceDrop.style.visibility = 'hidden';
+})
 
 // Home
 home.addEventListener('mouseenter', function(event) {
     event.target.style.color = hoverColor;
     produceDrop.style.visibility = 'visible';
-
-    setTimeout(function() {
-        event.target.style.color = '';
-        produceDrop.style.visibility = 'hidden';
-    }, 500);
 }, false);
+
+home.addEventListener('mouseleave', function(event) {
+    event.target.style.color = '';
+    produceDrop.style.visibility = 'hidden';
+})
 
 // Clothing
 clothing.addEventListener('mouseenter', function(event) {
     event.target.style.color = hoverColor;
     produceDrop.style.visibility = 'visible';
-
-    setTimeout(function() {
-        event.target.style.color = '';
-        produceDrop.style.visibility = 'hidden';
-    }, 500);
 }, false);
+
+clothing.addEventListener('mouseleave', function(event) {
+    event.target.style.color = '';
+    produceDrop.style.visibility = 'hidden';
+})
 
 // Tech
 tech.addEventListener('mouseenter', function(event) {
     event.target.style.color = hoverColor;
     produceDrop.style.visibility = 'visible';
-
-    setTimeout(function() {
-        event.target.style.color = '';
-        produceDrop.style.visibility = 'hidden';
-    }, 500);
 }, false);
+
+tech.addEventListener('mouseleave', function(event){
+    event.target.style.color = '';
+    produceDrop.style.visibility = 'hidden';
+})
