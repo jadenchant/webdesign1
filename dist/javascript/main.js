@@ -1,3 +1,10 @@
+const account = document.querySelector('.account-svg');
+const cart = document.querySelector('cart-svg');
+
+account.addEventListener('mouseenter', function(event) {
+    event.setAttribute("stroke","111111");
+})
+
 const nav = document.querySelector('.nav');
 const navContents = document.querySelector('nav-c');
 const produce = document.querySelector('.nav-c-produce');

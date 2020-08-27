@@ -15,34 +15,32 @@ header {
   background-color: #d620ee;
 }
 
-header .account img {
+header .account object {
   float: right;
   position: absolute;
   height: 3rem;
   width: 3rem;
-  top: 1.5rem;
-  right: 8rem;
+  top: 1.4rem;
+  right: 8.5rem;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
 }
 
-header .account img:hover {
-  fill: orange;
+header .account object:hover {
+  cursor: pointer;
 }
 
-header .cart img {
+header .cart object {
   float: right;
   position: absolute;
   height: 4rem;
   width: 4rem;
   top: 1rem;
-  right: 2rem;
-  -webkit-transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
+  right: 2.5rem;
 }
 
-header .cart img:hover {
-  fill: orange;
+header .cart object:hover {
+  cursor: pointer;
 }
 
 nav {

@@ -8,35 +8,35 @@ header {
     background-color: $primary-color;
 
     .account {
-        img {
+        object {
             float: right;
             position: absolute;
             height: 3rem;
             width: 3rem;
-            top: 1.5rem;
-            right: 8rem;
+            top: 1.4rem;
+            right: 8.5rem;
 
             @include transition-ease;
 
             &:hover {
-                fill: $accent-color-1;
+                cursor: pointer;
             }
         }
     }
 
     .cart {
-        img {
+        object {
             float: right;
             position: absolute;
             height: 4rem;
             width: 4rem;
             top: 1rem;
-            right: 2rem;
+            right: 2.5rem;
 
-            @include transition-ease;
+            // @include transition-ease;
 
             &:hover {
-                fill: $accent-color-1;
+                cursor: pointer;
             }
         }
     }
