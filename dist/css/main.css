@@ -16,19 +16,33 @@ header {
 }
 
 header .account img {
+  float: right;
   position: absolute;
   height: 3rem;
   width: 3rem;
   top: 1.5rem;
   right: 8rem;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+header .account img:hover {
+  fill: orange;
 }
 
 header .cart img {
+  float: right;
   position: absolute;
   height: 4rem;
   width: 4rem;
   top: 1rem;
   right: 2rem;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+
+header .cart img:hover {
+  fill: orange;
 }
 
 nav {

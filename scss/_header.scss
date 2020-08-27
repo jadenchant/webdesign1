@@ -9,21 +9,35 @@ header {
 
     .account {
         img {
+            float: right;
             position: absolute;
             height: 3rem;
             width: 3rem;
             top: 1.5rem;
             right: 8rem;
+
+            @include transition-ease;
+
+            &:hover {
+                fill: $accent-color-1;
+            }
         }
     }
 
     .cart {
         img {
+            float: right;
             position: absolute;
             height: 4rem;
             width: 4rem;
             top: 1rem;
             right: 2rem;
+
+            @include transition-ease;
+
+            &:hover {
+                fill: $accent-color-1;
+            }
         }
     }
 
