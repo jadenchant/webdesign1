@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 300 300"
+   height="300mm"
+   width="300mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1" />
+  <g
+     id="layer2">
+    <ellipse
+       ry="50.170067"
+       rx="88.435371"
+       cy="134.18367"
+       cx="128.23129"
+       id="path2829"
+       style="fill:#ffffff;stroke-width:0.264583" />
+    <ellipse
+       ry="142.55203"
+       rx="143.2323"
+       cy="150.31598"
+       cx="150.41261"
+       id="path2831"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:11.8225;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer3">
+    <ellipse
+       ry="59.362572"
+       rx="59.362568"
+       cy="108.57364"
+       cx="148.97316"
+       id="path3657"
+       style="fill:none;stroke:#000000;stroke-width:14.0849;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer4">
+    <path
+       id="path3666"
+       d="m 32.630364,225.30489 c 2.924023,-10.36046 9.868546,-19.52992 19.048995,-25.15206 9.180449,-5.62213 20.504417,-7.64035 31.061918,-5.53602 9.415494,1.87671 17.894873,6.80075 26.259183,11.51371 8.3643,4.71295 17.05277,9.37209 26.57093,10.62832 6.87625,0.90755 13.90537,-0.0213 20.56571,-1.95681 6.66035,-1.93553 12.99092,-4.8578 19.17885,-7.99085 12.37587,-6.26609 24.63177,-13.53614 38.33523,-15.69048 11.51468,-1.81024 23.60098,0.22947 33.88386,5.7183 10.28287,5.48883 18.7037,14.39551 23.60773,24.96978"
+       style="fill:none;stroke:#000000;stroke-width:9.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.99800004;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
