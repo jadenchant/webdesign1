@@ -1,6 +1,6 @@
 header {
     position: absolute;
-    height: 10rem;
+    height: 8rem;
     width: 100%;
     top: 0;
     padding: 1rem;
@@ -8,11 +8,21 @@ header {
     background-color: $primary-color;
 
     .account {
-
+        img {
+            position: absolute;
+            height: 3rem;
+            width: 3rem;
+            top: 1rem;
+            right: 6.5rem;
+        }
     }
 
     .cart {
-
+        img {
+            position: absolute;
+            height: 2.5rem;
+            width: 2.5rem;
+        }
     }
 
     .search {
